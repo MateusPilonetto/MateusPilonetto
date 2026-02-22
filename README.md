@@ -52,7 +52,7 @@ I'm currently developing a custom app store project focused on gathering all the
 </picture>
 
 
-<div>
-<a href="https://github.com/MateusPilonetto">
-<img loading="lazy" height="180em" src="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
-</div
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MateusPilonetto&show_icons=true&theme=radical" height="150" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPilonetto&layout=compact&theme=radical" height="150" alt="Linguagens" />
+</div>
