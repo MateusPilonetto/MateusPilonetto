@@ -50,3 +50,13 @@ I'm currently developing a custom app store project focused on gathering all the
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusPilonetto/MateusPilonetto/main/snake.svg">
   <img alt="Minhas Contribuições" src="https://raw.githubusercontent.com/MateusPilonetto/MateusPilonetto/main/snake.svg">
 </picture>
+
+<div align="center">
+  <a href="https://github.com/MateusPilonetto">
+    <img src="https://streak-stats.demolab.com/?user=MateusPilonetto&theme=radical&hide_border=true" height="170" alt="Estatísticas de Ofensiva" />
+  </a>
+  <br><br>
+  <a href="https://github.com/MateusPilonetto">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusPilonetto&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Gráfico de Atividade" />
+  </a>
+</div>
