@@ -1,6 +1,8 @@
 # Hi there!!👋 I'm Mateus and welcome to my Github profile 😄
 ## 🚀Aspiring Developer | Chemistry Tech & Physics Lover
 
+<img src="https://github.com/MateusPilonetto/MateusPilonetto/blob/main/octocat-1771773815926.png" width="200" />
+
 ## About Me 🧑‍💻
 <p> 
 🎓 I'm currently taking a programming course. <br>
@@ -42,6 +44,7 @@ I'm currently developing a custom app store project focused on gathering all the
   </a>
 </div>
 
+![Snake animation](https://github.com/mateuspilonetto/mateuspilonetto/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 Here are some ideas to get you started:
