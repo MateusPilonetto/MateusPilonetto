@@ -44,8 +44,6 @@ I'm currently developing a custom app store project focused on gathering all the
   </a>
 </div>
 
-![Snake animation](https://github.com/MateusMilonetto/MateusPilonetto/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 Here are some ideas to get you started:
 
