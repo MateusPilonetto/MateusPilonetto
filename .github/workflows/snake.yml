@@ -5,28 +5,27 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write # Garante a permissão de escrita automaticamente!
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Clonar o repositório
+        uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - name: Gerar a cobrinha
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: MateusPilonetto
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/
-          git commit -m "Atualizando a cobrinha" || exit 0
-          git push
+      - name: Forçar o salvamento no GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'dist'
+          message: '🐍 Atualizando a cobrinha'
+          author_name: 'github-actions[bot]'
+          author_email: 'github-actions[bot]@users.noreply.github.com'
