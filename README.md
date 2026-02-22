@@ -50,9 +50,3 @@ I'm currently developing a custom app store project focused on gathering all the
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusPilonetto/MateusPilonetto/main/snake.svg">
   <img alt="Minhas Contribuições" src="https://raw.githubusercontent.com/MateusPilonetto/MateusPilonetto/main/snake.svg">
 </picture>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateusPilonetto&show_icons=true&theme=radical" height="150" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPilonetto&layout=compact&theme=radical" height="150" alt="Linguagens" />
-</div>
