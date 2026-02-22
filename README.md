@@ -46,9 +46,9 @@ I'm currently developing a custom app store project focused on gathering all the
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateusPilonetto/MateusPilonetto/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusPilonetto/MateusPilonetto/main/dist/github-contribution-grid-snake.svg">
-  <img alt="Minhas Contribuições" src="https://raw.githubusercontent.com/MateusPilonetto/MateusPilonetto/main/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateusPilonetto/MateusPilonetto/main/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusPilonetto/MateusPilonetto/main/snake.svg">
+  <img alt="Minhas Contribuições" src="https://raw.githubusercontent.com/MateusPilonetto/MateusPilonetto/main/snake.svg">
 </picture>
 
 <!--
