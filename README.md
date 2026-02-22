@@ -45,7 +45,10 @@ I'm currently developing a custom app store project focused on gathering all the
 </div>
 
 
-![Snake animation](https://github.com/MateusPilonetto/MateusPilonetto/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!--
 Here are some ideas to get you started:
